@@ -15,7 +15,7 @@ Once everything has been downloaded and installed in a venv, run the server
 $ python manage.py runserver
 ```
 
-Then open the twitterapi_front.html
+Then open the twitterapi_front.html in the twitterapi directory
 ```
 $ open twitterapi_front.html
 ```
