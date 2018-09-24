@@ -1,6 +1,6 @@
 # Twitter-API
 
-Post and delete tweets to a Twitter API created in Django REST Framework.
+Post and delete tweets to a Twitter API created in Django REST Framework using AJAX methods. All scripts can be found in twitterapi directory, twitterapi_scripts.js
 
 ## Installation
 
